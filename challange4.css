@@ -1,0 +1,39 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    
+}
+main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    width: 350px;
+    height: 490px;
+    margin: auto;
+    margin-top: 5rem;
+    border-radius: 20px;
+    
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+
+    
+
+    
+}
+.content{
+    text-align: center;
+}
+p{
+color: hsl(218, 44%, 22%);
+text-align: center;
+
+
+}
+    
